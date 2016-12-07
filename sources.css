@@ -1,0 +1,20 @@
+a.button {
+    line-height: 180%
+    padding: 2px;
+    border :black outset 2px;
+}
+a.button:link {
+    color :black ;
+    background-color: white ;
+}
+a.button:visited {
+    color: black ;
+    background-color: white ;
+}
+a.button:active {
+    border : gray inset 2px ;
+}
+a.button:hover {
+    color: #000 ;
+    background-color: #ccc ;
+}
